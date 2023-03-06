@@ -36,12 +36,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
-
-### GitHub Stats
-[![Reshma Haridhas's github stats](https://github-readme-stats.vercel.app/api?username=javadeveloper317&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/JavaDeveloper317/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&layout=compact&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
-
 <!--
 **java expert/java expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
