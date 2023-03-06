@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Reshma:woman_technologist:</h1>
+<h1 align="center">Hi, I am Java Expert:woman_technologist:</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=reshmaharidhas.reshmaharidhas)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas&label=Profile%20views&labelColor=%23000000&countColor=%2300ff00&style=flat-square&labelStyle=upper)
