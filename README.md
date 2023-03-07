@@ -8,6 +8,8 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=luluhoc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
 
 - 📝 I write technical articles on **GeeksforGeeks** and **Medium**
